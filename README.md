@@ -1,6 +1,6 @@
 - 👋 Hi, I’m a recent graduate of the [Northcoders](https://northcoders.com/) bootcamp working with Javascript and Python.
 - 👀 I’m interested in web development with **React** and **Django Channels**. Check out some of my projects, such as my online game [*Mates Rates*](https://github.com/jakejones2/mates-rate) or my social app [*Daily Express.js*](https://github.com/jakejones2/nc-news-app).
-- 🌱 I’m currently working on incorporating Typescript into my projects, and practicing ML with TensorFlow.
+- 🌱 I’m currently practicing RL with PettingZoo and RLlib.
 - 💞️ Would love to start collaborating on a project, so please get in touch! 
 
 <!---
